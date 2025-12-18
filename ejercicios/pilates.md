@@ -12,3 +12,7 @@ Pilates se enfoca en fortalecer el core y mejorar el control corporal.
 1. Controla la respiración.
 2. Realiza movimientos precisos.
 3. Mantén el abdomen activado.
+
+## Consejos
+- Concéntrate en cada ejercicio.
+- Realiza los movimientos lentamente.

@@ -12,3 +12,7 @@ El ciclismo es una actividad cardiovascular de bajo impacto.
 1. Ajusta la bicicleta correctamente.
 2. Mantén una velocidad constante.
 3. Usa casco de seguridad.
+
+## Consejos
+- Mantente hidratado.
+- Respeta las normas de tránsito.

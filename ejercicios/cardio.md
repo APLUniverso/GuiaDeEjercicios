@@ -1,5 +1,8 @@
 # Ejercicio Cardio
 
+## Descripción
+Los ejercicios de fuerza se centran en desarrollar los músculos mediante resistencia.
+
 ## Beneficios
 - Incrementa la fuerza muscular.
 - Mejora la postura corporal.

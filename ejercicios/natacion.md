@@ -12,3 +12,7 @@ La natación es un ejercicio completo y de bajo impacto.
 1. Elige un estilo de nado.
 2. Nada durante 20 a 40 minutos.
 3. Descansa entre series.
+
+## Consejos
+- Mantén una técnica correcta.
+- Calienta antes de entrar al agua.

@@ -12,3 +12,7 @@ El boxeo combina fuerza, velocidad y resistencia.
 1. Realiza un calentamiento previo.
 2. Practica golpes básicos.
 3. Usa guantes adecuados.
+
+## Consejos
+- Protege tus muñecas.
+- Mantén la guardia alta.

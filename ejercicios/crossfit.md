@@ -12,3 +12,7 @@ CrossFit es un entrenamiento de alta intensidad que combina fuerza y cardio.
 1. Realiza circuitos de ejercicios.
 2. Mantén una buena técnica.
 3. Descansa lo necesario.
+
+## Consejos
+- Empieza con cargas ligeras.
+- Escucha a tu cuerpo.
